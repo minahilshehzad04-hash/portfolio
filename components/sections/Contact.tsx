@@ -97,7 +97,7 @@ export function Contact() {
                     <GithubIcon className="h-5 w-5" />
                   </a>
                   <a
-                    href="https://linkedin.com/in/minahilshahzad"
+                    href="https://www.linkedin.com/in/minahilshehzad"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex h-12 w-12 items-center justify-center rounded-xl border border-white/10 bg-[#0A66C2]/10 text-[#0A66C2] text-lg transition-all hover:-translate-y-1 hover:bg-[#0A66C2] hover:text-white hover:shadow-lg shadow-[#0A66C2]/20"
