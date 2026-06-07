@@ -60,7 +60,7 @@ const FALLBACK_PROJECTS: Project[] = [
     description: "An AI-powered platform that analyzes user skills against industry requirements, generating personalized learning recommendations to bridge professional skill gaps.",
     tech_stack: ["Next.js", "TypeScript", "Tailwind CSS", "Supabase", "Hugging Face"],
     github_url: "https://github.com/minahilshehzad04-hash",
-    live_url: "https://gapmind-qh16.vercel.app",
+    live_url: "https://gapmind-m.vercel.app",
     images: [
       "/projects/gapmind-1.png",
       "/projects/gapmind-2.png",
